@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375993965245",
+    "project_id": "fir-authentif-d6cc7",
+    "storage_bucket": "fir-authentif-d6cc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375993965245:android:c560bb54b1d75394a4f5d4",
+        "android_client_info": {
+          "package_name": "fahri.dika.firebaseauthentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375993965245-cecom9k401alu2h4avbtacqtluju8an7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKlbwinj2UM8YBFQMxokyZ8EmKuwmUgwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375993965245-cecom9k401alu2h4avbtacqtluju8an7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
